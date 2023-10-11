@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_second_page">SecondPageActivity</string>
+    <string name="Q1"> Q1. The response from a REST web service is commonly formatted in one of the common data transfer formats like XML or JSON.</string>
+    <string name="Q2"> Q2. A device with Android installed is needed to develop apps for Android.</string>
+
+    <string name="Q3"> Q3.  Google licensed some proprietary apps.</string>
+
+    <string name="Q4"> Q4. Android doesn’t make any assumptions about a device’s screen size, resolution, or chipset.</string>
+    <string name="Q5"> Q5.Android is built upon the Java Micro Edition (J2ME) version of Java.</string>
+
+    <string name="Q6"> Q6.  Find when you distribute your application commercially, you’ll want to sign it with your own key.</string>
+
+    <string name="Q7"> Q7. The response from a REST web service is commonly formatted in one of the common data transfer formats like XML or JSON.</string>
+    <string name="false_0">false</string>
+    <string name="true_1">true</string>
+    <string name="correct"><b>Correct Answer is </b> \n<b>%1$d</b> out of 6</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+
+</resources>
